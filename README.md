@@ -59,10 +59,10 @@
 
 <!-- IMPORTANT: Change '?username=pinsara' to your actual GitHub username if different -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pinsara&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pinsara23&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinsara&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinsara23&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
