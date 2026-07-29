@@ -13,14 +13,14 @@
 🚀 **What I do:**
 - **Engineer Smart Hardware:** Developing IoT and robotics solutions using ESP32, STM32, and Arduino.
 - **Deploy AI & Vision Models:** Leveraging PyTorch and OpenCV for transfer learning, computer vision, and predictive analytics.
-- **Architect Secure Backends:** Building and containerizing robust full-stack applications with Spring Boot, React/Flutter, and Docker.
+- **Architect Secure Backends:** Building and containerizing robust distributed applications using FastAPI, Spring Boot, and Docker.
 - **Empower the Community:** Mentoring junior students through hands-on Java coding workshops and contributing to large-scale open-source ecosystems.
 
 ## 🚀 Featured Projects
 
 | Project | Description |
 |----------|-------------|
-| **🌍 OpenMRS (GSoC)** | Contributing to the open-source health IT ecosystem by extending the Audit Log Module using Java and Hibernate. |
+| **🔐 Student Authentication System** | A secure, scalable student authentication platform built on a microservices architecture using FastAPI, and containerized with Docker for seamless deployment. |
 | **🧠 AI Agent** | An intelligent autonomous system designed for automated task execution, reasoning, and complex decision-making. |
 | **🔗 Blockchain Certificate Validation** | A secure, decentralized application for issuing and cryptographically verifying the authenticity of digital certificates on the blockchain. |
 | **🌱 Smart Garden System** | An IoT agriculture solution utilizing an ESP32-CAM and PyTorch to perform computer vision and transfer learning for crop disease detection. |
@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/MediaPipe-0081CB?style=flat-square&logo=google&logoColor=white" alt="MediaPipe"/>
