@@ -32,17 +32,17 @@
 
 **Software Engineering & ML**
 <p align="left">
-  <code>Java</code>
-  <code>Spring Boot</code>
-  <code>Hibernate</code>
-  <code>Python</code>
-  <code>PyTorch</code>
-  <code>OpenCV</code>
-  <code>MediaPipe</code>
-  <code>Flutter</code>
-  <code>React</code>
-  <code>Docker</code>
-  <code>Blockchain</code>
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0081CB?style=flat-square&logo=google&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 </p>
 
 **Embedded Systems**
